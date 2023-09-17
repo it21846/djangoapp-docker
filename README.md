@@ -1,6 +1,6 @@
 # Clone and run project
 ```bash
-git clone https://github.com/it21846/djangoapp.git
+git clone https://github.com/it21846/djangoapp-docker.git
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
